@@ -1,27 +1,12 @@
-# P2PLending
+# P2P Lending Marketplace
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+To cope up with the financial disruptions, bank itself will provide a P2P lending market place where investor can meet borrower directly. A link for P2P market place will be provided on banks home page. Basically, bank itself will provide a P2P lending facility in its own environment but the policies will be same as a third party lending website.
+Bank will not take the responsibility of any risks that P2P lending possesses. 
 
-## Development server
+The idea of having P2P lending market place by bank itself will give users a sense of security than other funding sites. As bank has got all the history of a person who is already a member itself, it will be easy for them to facilitate the users with the best possible option. For example, suppose a borrower has the history of not returning in the due time, the bank can always put a red flag to the user and the lending option for him will not be the same as others.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Same goes with Investor. Bank will show the promising lenders who have a good history of returning the amount in due or before time. 
 
-## Code scaffolding
+For the security risks checks as bank have the access of user’s history, the investors will be provided with a facility of checking the risk factor against a borrower. They can check there external ratings and risk score. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+A user will be provided the facility to login as a register or as a borrower or via his/her Google account.

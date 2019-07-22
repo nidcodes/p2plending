@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "dist/P2PLending",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+
+  }
+}
